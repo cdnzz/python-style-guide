@@ -25,3 +25,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#Auto Doc
+autodoc.py
+doc/v*
