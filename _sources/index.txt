@@ -1,0 +1,20 @@
+
+Welcome
+=======
+Style Guide for Python Code
+
+This project depends on some external libraries. These libraries are not documented here. If you want to dive into their documentation, check out the following links:
+
+-   `gevent <http://www.gevent.org/>`_
+
+
+Contents
+--------
+.. include:: modules.rst.inc
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

@@ -1,0 +1,10 @@
+`style` Package
+===============
+
+:mod:`tutorial` Module
+----------------------
+
+.. automodule:: src.style.tutorial
+    :members:
+    :undoc-members:
+    :show-inheritance:

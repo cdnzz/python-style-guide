@@ -1,0 +1,10 @@
+`pyguide` Module
+================
+
+:mod:`pyguide` Module
+---------------------
+
+.. automodule:: src.pyguide
+    :members:
+    :undoc-members:
+    :show-inheritance:

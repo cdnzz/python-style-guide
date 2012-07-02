@@ -1,0 +1,10 @@
+`guide.util` Package
+====================
+
+:mod:`square` Module
+--------------------
+
+.. automodule:: src.guide.util.square
+    :members:
+    :undoc-members:
+    :show-inheritance:

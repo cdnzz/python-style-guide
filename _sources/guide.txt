@@ -1,0 +1,10 @@
+`guide` Package
+===============
+
+:mod:`sample` Module
+--------------------
+
+.. automodule:: src.guide.sample
+    :members:
+    :undoc-members:
+    :show-inheritance:
